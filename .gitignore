@@ -1,0 +1,32 @@
+# 🔒 Ignore secrets and environment config
+.env
+
+# ✅ But allow .example.env
+!.example.env
+
+# 🧠 Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📦 Ignore virtualenv if used
+env/
+venv/
+.venv/
+
+# 🧪 Ignore test logs or coverage
+*.log
+.coverage
+htmlcov/
+.cache/
+
+# 🧼 Ignore OS/macOS artifacts
+.DS_Store
+Thumbs.db
+
+# 🎛️ Ignore Gradio auto folder
+.gradio/
+
+# 🧪 Jupyter checkpoint folders (if any)
+.ipynb_checkpoints/
