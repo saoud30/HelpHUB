@@ -7,12 +7,14 @@ import requests # To make API calls
 import json
 import os
 from datetime import datetime, timedelta
+from dotenv import load_dotenv
+load_dotenv()
 
 from database_manager import db_manager
 db = db_manager
 
 # We need the GROQ key here as well for the root cause analysis
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # --- LLM function for Root Cause Analysis ---
 def get_llm_root_cause(summaries: str) -> str:
