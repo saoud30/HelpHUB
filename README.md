@@ -61,7 +61,7 @@ Perfect for startups, support teams, or any project where user feedback matters.
 <p align="center">
   <img src="assets/telegram_screenshot.png" width="700"/>
   <br>
-  <em>🧠 Dashboard powered by LLMs & real-time ticket tracking</em>
+  <em>💬 Telegram Dashboard powered by LLMs & to Raise ticket by Ease</em>
 </p>
 
 
