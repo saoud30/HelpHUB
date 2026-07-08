@@ -152,12 +152,6 @@ or
 
 ---
 
-## 🤝 Contributors
-
-| Name | Role |
-|------|------|
-| Your Name | Developer, Designer |
-| [@saoud30](https://github.com/saoud30) | GitHub Profile |
 
 ---
 
@@ -172,13 +166,6 @@ Built during the **Lalalab AI Hackathon** to explore how language models and con
 This project is licensed under the **MIT License**.
 
 ---
-
-## 📫 Contact
-
-Need help or want to collaborate?
-
-- 🔗 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/mohd-saoud30)
-- 📧 **Email**: mohdhashimansari30@gmail.com
 
 ---
 
